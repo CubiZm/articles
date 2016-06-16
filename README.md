@@ -1,4 +1,4 @@
 # Статьи и переводы
-- [Как эмодзи могут улучшить ваш код — всё серьезно]()
-- [Текстурированные градиенты на чистом CSS]()
-- [Давайте выучим замыкания в JavaScript!]()
+- [Как эмодзи могут улучшить ваш код — всё серьезно](https://github.com/CubiZm/articles/tree/master/emoji-and-coding)
+- [Текстурированные градиенты на чистом CSS](https://github.com/CubiZm/articles/tree/master/textured-gradients-in-pure-css)
+- [Давайте выучим замыкания в JavaScript!](https://github.com/CubiZm/articles/tree/master/lets-learn-javascript-closures)
