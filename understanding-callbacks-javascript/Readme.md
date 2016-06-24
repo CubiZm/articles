@@ -1,3 +1,5 @@
+***Оригинал статьи:*** https://medium.freecodecamp.com/understanding-asynchronous-javascript-callbacks-through-household-chores-e3de9a1dbd04#.s6e4vtxtx
+
 # Понимаем асинхронные Javascript запросы с помощью домашних дел
 
 ### Если вы когда-нибудь стирали, то вы поймете как работают обратные вызовы (callbacks).
