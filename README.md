@@ -5,3 +5,4 @@
 - [Давайте выучим замыкания в JavaScript!](https://github.com/CubiZm/articles/tree/master/lets-learn-javascript-closures)
 - [Понимаем асинхронные обратные вызовы в Javascript с помощью домашних дел](https://github.com/CubiZm/articles/tree/master/understanding-callbacks-javascript)
 - [Ад функций обратного вызова (на редактуре)](https://github.com/CubiZm/articles/tree/master/callbacks-hell)
+- [Всегда используйте label](https://github.com/CubiZm/articles/tree/master/always-use-a-label)
